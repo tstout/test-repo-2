@@ -1,0 +1,2 @@
+{:description "example plugin b"
+ :init plugin-b.core/init}
