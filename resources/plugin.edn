@@ -1,2 +1,2 @@
-{:description "example plugin b"
- :init plugin-b.core/init}
+{:sys/description "example plugin b"
+ :sys/init plugin-b.core/init}
